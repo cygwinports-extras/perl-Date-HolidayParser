@@ -1,0 +1,14 @@
+CPAN_AUTHOR=zerodogg
+inherit perl
+
+NAME="perl-Date-HolidayParser"
+VERSION=0.41
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl .holiday file parser module"
+DESCRIPTION="Date::HolidayParser is a parser for .holiday files. These are
+files that define holidays in various parts of the world in a format that is
+easy to read and write, but somewhat hard to parse due to its flexible and
+forgiving nature."
+
+ARCH=noarch
