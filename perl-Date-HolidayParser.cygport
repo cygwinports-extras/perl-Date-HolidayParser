@@ -3,7 +3,7 @@ inherit perl
 
 NAME="perl-Date-HolidayParser"
 VERSION=0.41
-RELEASE=1
+RELEASE=2
 CATEGORY="Perl"
 SUMMARY="Perl .holiday file parser module"
 DESCRIPTION="Date::HolidayParser is a parser for .holiday files. These are
